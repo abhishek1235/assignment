@@ -1,4 +1,4 @@
-<h3>Backbase Assignment Setup Guide</h3>
+<h3>Assignment Setup Guide</h3>
 
 <i><strong>This project demonstrates the basic protractor-cucumber framework project setup with Allure Reports integration</strong></i>
 </p>
